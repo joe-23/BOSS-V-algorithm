@@ -15,4 +15,4 @@ python3 runBOSS_extra.py -c configKge.ini -o resultsKge.txt
 python3 runBOSS_extra.py -c configQbe.ini -o resultsQbe.txt
 python3 runBOSS_extra.py -c configQge.ini -o resultsQge.txt
 
-## To edit which threshold Tau_max to use, edit either runBOSS_inter.py line 69 or runBOSS_extra.py line 64
+### To edit which threshold Tau_max to use, edit either runBOSS_inter.py line 69 or runBOSS_extra.py line 64
